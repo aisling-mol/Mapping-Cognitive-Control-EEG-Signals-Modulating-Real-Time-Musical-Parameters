@@ -1,2 +1,3 @@
-# Mapping-Cognitive-Control-EEG-Signals-Modulating-Real-Time-Musical-Parameters
-MSc Music Technology Thesis. Python scripts for real-time EEG-to-MIDI control using NeuroBell’s Luna amplifier. EEG bands (theta/alpha/beta) are extracted via FFT and mapped to MIDI CC to modulate VST parameters in Reaper. Includes prototype script for simulated data via EDF, final device data stream compatible script, and post processing script. 
+# A) Prototype Colab EEG research script
+
+Includes prototype script for EEG research using simulated data via an EDF file
