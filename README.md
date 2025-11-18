@@ -1,4 +1,4 @@
-# A) Prototype Colab EEG research script
+# A) Prototype Colab EEG Research Script
 
 Includes prototype script for EEG research using simulated data via an EDF file
 
