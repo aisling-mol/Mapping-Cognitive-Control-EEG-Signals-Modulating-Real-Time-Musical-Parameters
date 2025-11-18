@@ -4,7 +4,7 @@ EEG bands (theta/alpha/beta) are extracted via FFT processing and mapped to MIDI
 
 This repo includes the following script versions, use the branches to manoeuvre through the the script versions.
 
-A) Prototype Colab EEG research script a
+A) Prototype Colab EEG research script
 
 B) VSCode script for simulated datastream via EDF 
 
