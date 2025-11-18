@@ -1,8 +1,8 @@
 # D) Post-Processing Data Analysis Script
 
 EEG Plotting scripts from trials of Mapping Cognitive Control 
-Use CSV files generated that contain microvolt information from each lobe under each testing senario 
-These scripts were developed using 3 CSV files from lobe stimuli trials (can be developed for 4)
+  Use CSV files generated that contain microvolt information from each lobe under each testing senario 
+  These scripts were developed using 3 CSV files from lobe stimuli trials (can be developed for 4)
 
 
 D (a) - Stimulus Trial EEG Comparison
