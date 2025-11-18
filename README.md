@@ -10,5 +10,5 @@ B) VSCode Script for Simulated Datastream via EDF
 
 C) Final Device-Compatible Live Datastream Script
 
-D) Post-Processing Data Analysis Script. 
+D) Post-Processing Data Analysis Script
 
